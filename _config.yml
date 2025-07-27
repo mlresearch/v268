@@ -1,0 +1,103 @@
+---
+booktitle: Proceedings of The Second AAAI Bridge Program on Continual Causality
+shortname: CC
+volume: '268'
+year: '2024'
+start: &1 2024-02-20
+end: 2024-02-21
+published: 2025-07-27
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: CC-2024
+month: 0
+cycles: false
+bibtex_editor: Mundt, Martin and Cooper, Keiland W. and Dhami, Devendra Singh and
+  Hayes, Tyler and Herman, Rebecca and Ribeiro, Ad\'ele and Smith, James Seale
+editor:
+- given: Martin
+  family: Mundt
+- given: Keiland W.
+  family: Cooper
+- given: Devendra Singh
+  family: Dhami
+- given: Tyler
+  family: Hayes
+- given: Rebecca
+  family: Herman
+- given: Adéle
+  family: Ribeiro
+- given: James Seale
+  family: Smith
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The Second AAAI Bridge Program on Continual Causality
+    Held in Vancouver, Canada on 20-21 February 2024
+
+  Published as Volume 268 by the Proceedings of Machine Learning Research on 27 July 2025.
+
+  Volume Edited by:
+    Martin Mundt
+    Keiland W. Cooper
+    Devendra Singh Dhami
+    Tyler Hayes
+    Rebecca Herman
+    Adéle Ribeiro
+    James Seale Smith
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 20--21 Feb
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v268"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v268
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v268
+email: ''
+conference:
+  name: AAAI Bridge Program on Continual Causality
+  url: https://www.continualcausality.org/
+  location: Vancouver, Canada
+  dates:
+  - *1
+  - 2024-02-21
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: cc24_clean.bib
+# Site settings
+# Original source:  cc24_clean.bib
