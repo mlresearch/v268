@@ -3,7 +3,7 @@ booktitle: Proceedings of The Second AAAI Bridge Program on Continual Causality
 shortname: CC
 volume: '268'
 year: '2024'
-start: &1 2024-02-20
+start: 2024-02-20
 end: 2024-02-21
 published: 2025-07-27
 layout: proceedings
@@ -84,7 +84,7 @@ conference:
   url: https://www.continualcausality.org/
   location: Vancouver, Canada
   dates:
-  - *1
+  - 2024-02-20
   - 2024-02-21
 analytics:
   google:
